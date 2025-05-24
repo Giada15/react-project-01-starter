@@ -8,3 +8,6 @@ This is a beginner-friendly React app that fetches random advice from the [Advic
 - Displays the advice in a simple UI
 - Button to fetch new advice on click
 - Uses React functional components and Hooks
+
+This repository contains exercises I completed while taking The Ultimate React Course 2025: React, Next.js, Redux & More on Udemy.  
+All code is written by me, following the course tutorials, for learning purposes.
